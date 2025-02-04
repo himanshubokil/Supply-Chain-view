@@ -105,7 +105,7 @@ In Home view, all the views button will be available. User will land on specific
 * Support
 
 ### Report view
-![image](![image](https://github.com/user-attachments/assets/86b8bf1d-6ba5-4c4f-ab3b-f68f7f907637)
+(![image](https://github.com/user-attachments/assets/86b8bf1d-6ba5-4c4f-ab3b-f68f7f907637)
 
 
 
